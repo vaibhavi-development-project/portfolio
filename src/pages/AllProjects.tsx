@@ -67,7 +67,7 @@ const AllProjects = () => {
                         rel="noopener noreferrer"
                         className="ink-button inline-flex items-center gap-1.5 px-4 py-2 text-xs font-medium"
                       >
-                        Live Demo <ArrowUpRight size={12} />
+                        View <ArrowUpRight size={12} />
                       </a>
                     )}
                     {p.code && (
